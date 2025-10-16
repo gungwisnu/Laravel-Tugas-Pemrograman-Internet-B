@@ -60,7 +60,9 @@
     @endif
   </div>
 
-  <p class="mt-8 text-center text-sm text-gray-500">Anak Agung Gede Wisnu Mahadhiva - 2405551106</p>
+  <p class="mt-8 text-center text-sm text-gray-500 cursor-pointer"
+      onclick="window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank')">
+      Anak Agung Gede Wisnu Mahadhiva - 2405551106 </p>
 
 </body>
 </html>
